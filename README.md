@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | Proficient in C, C++, DSA, and STL</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnuragPatkar&label=Profile%20views&color=0e75b6&style=flat" alt="AnuragPatkar" />
+  <img src="https://komarev.com/ghpvc/?username=AnuragPatkar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -32,19 +32,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnuragPatkar&show_icons=true&theme=react&hide_border=false" alt="Anurag's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=AnuragPatkar&theme=react&hide_border=false" alt="Anurag's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPatkar&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
 </p>
 
----
 
-### 📌 Projects & Courses
-
-- 📘 C Language Assignments: [Link](https://lnkd.in/d4-DjffA)
-- 📘 C++ Assignments: [Link](https://lnkd.in/d3PaTbP8)
-- 📘 DSA in C++: [Link](https://lnkd.in/dygm4PFj)
-- 📘 STL: [Link](https://lnkd.in/d8ht2Qcs)
-
----
-
-Feel free to connect and collaborate!
