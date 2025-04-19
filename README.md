@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag Patkar</h1>
-<h3 align="center">Aspiring Software Developer | Proficient in C, C++, DSA, and STL</h3>
+<h3 align="center">Aspiring Quantative Trader and Developer | Proficient in Python, C, C++, DSA, and STL</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnuragPatkar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
