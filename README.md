@@ -1,38 +1,72 @@
 <h1 align="center">Hi 👋, I'm Anurag Patkar</h1>
-<h3 align="center">Aspiring Quantative Trader and Developer | Proficient in Python, C, C++, DSA, and STL</h3>
+<h3 align="center">Aspiring Quantative analyst and algorithmic trader, with expertise in Python,C, C++, and DSA.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnuragPatkar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+ 
+<img 
+align="right"
+src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
+alt="coding-gif"
+width="380px"
+/>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
+
+
+
+### 🚀 Quick Info  
+- 💻 Expertise: Python,C, C++, DSA  
+- 🌱 Learning: Machine Learning
+- 📫 Email: anuragpatkar786@gmail.com 
+- 🔗 LinkedIn: [Anurag-patkar](www.linkedin.com/in/anurag-patkar)  
+
+
+<h3 align="left">🧑‍💻Tech Stack</h3>
+
+###
+<div align="left">
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+
+<!-- Frontend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
+
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+<img src="https://skillicons.dev/icons?i=express" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ejs/ejs-original.svg" height="40" />
+
+<!-- DevOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+<img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" />
+<img src="https://cdn.simpleicons.org/stripe/008CDD" height="40" />
+
+</div>
 
 ---
 
-### 🚀 About Me
+### 
 
-- 🎓 Completed courses in C, C++, DSA, and STL
-- 💡 Passionate about problem-solving and algorithmic thinking
-- 📫 Reach me at: [anuragpatkar@example.com](mailto:anuragpatkar@example.com)
-- 💼 LinkedIn: [Anurag Patkar](https://www.linkedin.com/in/anurag-patkar-023095296/)
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="amankumarsinhagithub"
+  /> &nbsp; &nbsp; &nbsp;
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=nightowl&hide_border=false"
+    alt="amankumarsinhagithub"
+  />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnuragPatkar&show_icons=true&theme=react&hide_border=false" alt="Anurag's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPatkar&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
-</p>
-
 
