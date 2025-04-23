@@ -30,7 +30,9 @@ width="380px"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="40" title="Rust" />
+<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="40" title="Rust" style="background-color:white; padding:5px;" />
+
+<!-- QuantConnect SVG if available -->
 
 <!-- Tools for Quant & Data Science -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter Notebook" />
