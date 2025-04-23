@@ -30,7 +30,7 @@ width="380px"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="40" title="Rust" style="background-color:white; padding:5px;" />
+<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="40" title="Rust" style="filter: invert(27%) sepia(90%) saturate(2000%) hue-rotate(200deg) brightness(90%) contrast(100%); padding:5px;" />
 
 <!-- QuantConnect SVG if available -->
 
