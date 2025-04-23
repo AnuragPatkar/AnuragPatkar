@@ -31,10 +31,6 @@ width="380px"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 
-<!-- DevOps -->
-<img src="https://cdn.simpleicons.org/appwrite/F02E65" height="40" />
-<img src="https://cdn.simpleicons.org/stripe/008CDD" height="40" />
-
 </div>
 
 ---
