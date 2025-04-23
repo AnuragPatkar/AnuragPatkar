@@ -26,10 +26,26 @@ width="380px"
 
 ###
 <div align="left">
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+<!-- Programming Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" title="Rust" />
+
+<!-- Tools for Quant & Data Science -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter Notebook" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib" />
+
+<!-- Manually added logos -->
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" title="Seaborn" style="vertical-align: middle;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Plotly-logo-01-square.png" height="40" title="Plotly" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/QuantConnect_logo.svg/2560px-QuantConnect_logo.svg.png" height="40" title="QuantConnect" style="height: 40px;" />
+
+<!-- Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
+
 
 </div>
 
