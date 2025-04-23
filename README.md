@@ -30,14 +30,7 @@ width="380px"
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg"
-     height="40"
-     title="Rust"
-     style="filter: invert(18%) sepia(80%) saturate(1800%) hue-rotate(5deg) brightness(100%) contrast(100%);
-            padding:5px;
-            background-color: transparent;" />
 
-<!-- QuantConnect SVG if available -->
 
 <!-- Tools for Quant & Data Science -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter Notebook" />
@@ -48,7 +41,7 @@ width="380px"
 
 <!-- Manually added working icons -->
 <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="40" title="Plotly" style="background-color:white; border-radius:8px;" />
-<img src="https://media.licdn.com/dms/image/C4D0BAQHh0uMqkePg8Q/company-logo_200_200/0/1631353261572?e=2147483647&v=beta&t=4UOWrJvuAOUJtvvGJ9_JWkkKg7EjUfiL4FzH3v2JSuE" height="40" title="QuantConnect" style="border-radius:8px;" />
+
 
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
