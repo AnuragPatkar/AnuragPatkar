@@ -19,7 +19,7 @@ width="380px"
 - 💻 Expertise: Python,C, C++, DSA  
 - 🌱 Learning: Machine Learning
 - 📫 Email: anuragpatkar786@gmail.com 
-- 🔗 LinkedIn: [Anurag-patkar](www.linkedin.com/in/anurag-patkar)  
+- 🔗 LinkedIn: [Anurag-patkar](https://www.linkedin.com/in/anurag-patkar/)  
 
 
 <h3 align="left">🧑‍💻Tech Stack</h3>
