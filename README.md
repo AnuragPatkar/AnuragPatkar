@@ -61,12 +61,12 @@ width="380px"
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bppatkar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-    alt="amankumarsinhagithub"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPatkar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="AnuragPatkargithub"
   /> &nbsp; &nbsp; &nbsp;
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Bppatkar&theme=nightowl&hide_border=false"
-    alt="amankumarsinhagithub"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragPatkar&theme=nightowl&hide_border=false"
+    alt="AnuragPatkargithub"
   />
 </p>
 
