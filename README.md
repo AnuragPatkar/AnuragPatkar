@@ -10,7 +10,7 @@ width="380px"
 />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Bppatkar&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AnuragPatkar&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
 
