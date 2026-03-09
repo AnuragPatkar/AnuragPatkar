@@ -16,7 +16,7 @@ width="380px"
 
 
 ### 🚀 Quick Info  
-- 💻 Expertise: Python,C, C++, DSA  
+- 💻 Expertise: Python,C++
 - 🌱 Learning: Machine Learning
 - 📫 Email: anuragpatkar786@gmail.com 
 - 🔗 LinkedIn: [Anurag-patkar](https://www.linkedin.com/in/anurag-patkar/)  
