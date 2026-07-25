@@ -1,66 +1,73 @@
 <h1 align="center">Hi 👋, I'm Anurag Patkar</h1>
-<h3 align="center">Aspiring Quantative analyst and algorithmic trader, with expertise in Python,C, C++, and DSA.</h3>
-
- 
-<img 
-align="right"
-src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" 
-alt="coding-gif"
-width="380px"
-/>
+<h3 align="center">Quantitative Researcher | Algorithmic Trading & Options Strategies</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=AnuragPatkar&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views" />
 </p>
 
+---
 
+### 💫 About Me
 
-### 🚀 Quick Info  
-- 💻 Expertise: Python,C++
-- 🌱 Learning: Machine Learning
-- 📫 Email: anuragpatkar786@gmail.com 
-- 🔗 LinkedIn: [Anurag-patkar](https://www.linkedin.com/in/anurag-patkar/)  
+Quantitative Researcher specializing in systematic alpha generation, derivatives pricing, and portfolio risk management. I design end-to-end research pipelines — from factor engineering to production-grade execution — with a strong emphasis on statistical rigor, leakage control, and realistic backtesting assumptions over optimistic assumptions.
 
+My work spans equity factor models, options pricing engines, and convex portfolio optimization, built with the same discipline expected in institutional research: point-in-time data integrity, walk-forward validation, and transaction-cost-aware performance evaluation.
 
-<h3 align="left">🧑‍💻Tech Stack</h3>
-
-###
-<div align="left">
-<!-- Programming Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" title="C" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" title="C++" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
-
-
-<!-- Tools for Quant & Data Science -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter Notebook" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" title="NumPy" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" title="Pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" title="Matplotlib" />
-<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" title="Seaborn" style="vertical-align: middle;" />
-
-<!-- Manually added working icons -->
-<img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="40" title="Plotly" style="background-color:white; border-radius:8px;" />
-
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" />
-
-
-</div>
+**Currently focused on:** building production-ready quant systems and preparing for full-time roles in Quant Research, Systematic Trading, and Derivatives Analytics.
 
 ---
 
-### 
+### 📈 Featured Project — Quant Alpha Research Platform
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragPatkar&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-    alt="AnuragPatkargithub"
-  /> &nbsp; &nbsp; &nbsp;
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragPatkar&theme=nightowl&hide_border=false"
-    alt="AnuragPatkargithub"
-  />
-</p>
+**Backtest Results** *(Research Project, Simulated — not live traded capital)*
+- **+41.83% CAGR** | **2.74 Sharpe** | **+23.30% vs SPY** (Top-N / Equal-Weight)
+- Out-of-sample through 2026-05-01 | Simulated on $1,000,000 initial capital
+- 500+ equity universe | Walk-forward OOS | 10 bps commissions + slippage + Almgren-Chriss market impact
 
+🔗 [github.com/AnuragPatkar/Quant_Alpha_Research](https://github.com/AnuragPatkar/Quant_Alpha_Research)
+
+---
+
+### ⚙️ What I Build
+
+- **Equity Alpha Pipelines** — 110+ factors, sector-neutralization, per-fold winsorization, GBDT ensembles (LightGBM/XGBoost/CatBoost), purged cross-validation + embargo, signal monitoring
+- **Derivatives Engines** — Black-Scholes, CRR lattice, Monte Carlo pricing, Greeks, IV surface calibration
+- **Portfolio Optimization** — Mean-Variance, Risk Parity (ERC), Black-Litterman, Kelly sizing, covariance shrinkage (Ledoit-Wolf), volatility targeting
+- **Risk Analytics** — VaR (Delta-Gamma-Vega), stress testing, drawdown controls, P&L attribution, limit monitoring
+
+🔗 [github.com/AnuragPatkar/Quant-Alpha-Pricing-Engine](https://github.com/AnuragPatkar/Quant-Alpha-Pricing-Engine)
+
+---
+
+### 📜 Certifications
+
+- Quant Finance Bootcamp 2025 — Quant Finance Institute (QFI)
+- NISM-Series-VIII: Equity Derivatives — NISM
+- Time Series Analysis in Python — Udemy (365 Careers)
+
+---
+
+### 🌐 Open To
+
+Quant Research | Systematic Trading | Derivatives Analytics | Quant Developer | ML Engineer (Finance)
+Remote or Relocation | Global Opportunities
+
+---
+
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-patkar/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuragpatkar786@gmail.com)
+
+---
+
+### 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
